@@ -984,3 +984,12 @@ mask-image: linear-gradient(to top, transparent 40%, #079097 80%) !important;
 .not-loaded * {
   animation-play-state: paused !important;
 }
+.text {
+  position: absolute;
+  top: 100px;
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-size: 3rem;
+  font-style: normal;
+  color: white;
+}
